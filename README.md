@@ -36,3 +36,7 @@ static-analysis-lab
 - Ghidra
 - Detect It Easy (DIE)
 - PEStudio
+
+## Tujuan Pembelajaran
+
+Repository ini dibuat sebagai dokumentasi praktikum Reverse Engineering selama satu semester serta sebagai portofolio penggunaan tools analisis statis.
