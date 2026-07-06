@@ -36,3 +36,7 @@ Section yang ditemukan meliputi:
 ### Kesimpulan
 
 Hasil analisis statis menunjukkan bahwa Notepad merupakan aplikasi Windows standar dengan struktur Portable Executable yang lengkap. Analisis dilakukan tanpa menjalankan program sehingga aman dilakukan.
+
+## Catatan
+
+Seluruh informasi diperoleh melalui analisis struktur file Portable Executable menggunakan tools Reverse Engineering.
