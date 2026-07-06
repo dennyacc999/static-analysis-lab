@@ -29,3 +29,10 @@ static-analysis-lab
 └── sample-02
     └── laporan.md
 ```
+
+## Referensi
+
+- Microsoft Portable Executable Specification
+- Ghidra
+- Detect It Easy (DIE)
+- PEStudio
