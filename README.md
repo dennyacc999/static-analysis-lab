@@ -40,3 +40,7 @@ static-analysis-lab
 ## Tujuan Pembelajaran
 
 Repository ini dibuat sebagai dokumentasi praktikum Reverse Engineering selama satu semester serta sebagai portofolio penggunaan tools analisis statis.
+
+## Penutup
+
+Repository ini akan terus diperbarui apabila terdapat materi atau hasil analisis baru selama proses pembelajaran Reverse Engineering.
