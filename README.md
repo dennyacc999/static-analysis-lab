@@ -18,3 +18,14 @@ Repository ini berisi laporan singkat hasil analisis statis terhadap beberapa fi
 
 ## Disclaimer
 Seluruh analisis dilakukan untuk tujuan edukasi dan penelitian pada lingkungan Virtual Machine (VM). Repository ini tidak mendistribusikan malware aktif.
+
+## Struktur Repository
+
+```text
+static-analysis-lab
+├── README.md
+├── sample-01
+│   └── laporan.md
+└── sample-02
+    └── laporan.md
+```
