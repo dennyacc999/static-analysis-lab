@@ -36,3 +36,7 @@ Section utama yang ditemukan meliputi:
 ### Kesimpulan
 
 Analisis statis menunjukkan bahwa file memiliki karakteristik executable Windows dengan beberapa API yang mengindikasikan kemampuan akses terhadap sistem operasi. Analisis dilakukan tanpa mengeksekusi file sehingga aman dilakukan pada lingkungan laboratorium.
+
+## Catatan
+
+Analisis dilakukan menggunakan metode statis tanpa menjalankan file sehingga lebih aman untuk proses pembelajaran Reverse Engineering.
